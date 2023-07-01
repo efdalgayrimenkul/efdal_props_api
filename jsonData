@@ -1,0 +1,64 @@
+{
+    "Property": [
+        {
+            "PropID": 1688166732734,
+            "Desc": "short description",
+            "Type": "Resort",
+            "Owner": {
+                "Owner Name": "Bernard Toy",
+                "Owner Phone": "5811111147",
+                "Mediator Name": "Rudy Schimmel",
+                "Mediator Phone": "2897444407"
+            },
+            "Location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.7094545560735!2d30.3779107!3d40.773383800000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ccb3667c39ad7f%3A0x43c7276b3bc98367!2sEfdal%20Gayrimenkul!5e1!3m2!1sen!2ssa!4v1688125763625!5m2!1sen!2ssa' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'",
+            "Use": "Rent",
+            "Price": 344300,
+            "Area": 4344.99,
+            "Storeys": 9,
+            "Kitchen": 76,
+            "Balcony": 76,
+            "Parking": 76,
+            "PlayYard": 76,
+            "Ac": 76,
+            "Heating": 0,
+            "Gas": 0,
+            "Wifi": 0,
+            "Furnished": 76,
+            "LongDesc": "too many words..",
+            "Pictures": [
+                {
+                    "URL": "assets/props/prop_1/1.jpg",
+                    "Description": "Intelligent Concrete Bacon"
+                },
+                {
+                    "URL": "assets/props/prop_1/2.jpg",
+                    "Description": "Incredible Wooden Gloves"
+                },
+                {
+                    "URL": "assets/props/prop_1/3.jpg",
+                    "Description": "Rustic Cotton Table"
+                },
+                {
+                    "URL": "assets/props/prop_1/4.jpg",
+                    "Description": "Handmade Soft Pizza"
+                },
+                {
+                    "URL": "assets/props/prop_1/5.jpg",
+                    "Description": "Awesome Cotton Tuna"
+                },
+                {
+                    "URL": "assets/props/prop_1/6.jpg",
+                    "Description": "Sleek Steel Table"
+                },
+                {
+                    "URL": "assets/props/prop_1/7.jpg",
+                    "Description": "Rustic Wooden Soap"
+                },
+                {
+                    "URL": "assets/props/prop_1/8.jpg",
+                    "Description": "Handmade Frozen Shoes"
+                }
+            ]
+        }
+    ]
+}
