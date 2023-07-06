@@ -11,7 +11,15 @@
     "O_Phone": "+967 687 949 9683",
     "Contact": "Coretta Meco",
     "C_Phone": "+92 844 205 4765",
-    "Location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12091.28370910036!2d30.3398748!3d40.7439657!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ccadf2977958d7%3A0xc7996fa884f94c03!2sSakarya%20University!5e0!3m2!1sen!2ssa!4v1688638362188!5m2!1sen!2ssa\" width=\"600\" height=\"450\" style=\"border:0; \"allowfullscreen=\" \"loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+    "Location": {
+    "@src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.483485849065!2d30.3779107!3d40.773383800000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ccb3667c39ad7f%3A0x43c7276b3bc98367!2sEfdal%20Gayrimenkul!5e0!3m2!1sen!2ssa!4v1688640057476!5m2!1sen!2ssa",
+    "@width": "600",
+    "@height": "450",
+    "@style": "border:0;",
+    "@allowfullscreen": "",
+    "@loading": "lazy",
+    "@referrerpolicy": "no-referrer-when-downgrade"
+  },
     "Area": 2250,
     "Price_tr": 13000000,
     "Price_en": 500000,
